@@ -1,4 +1,3 @@
-# Google-Adsense-Report-Looker_Studio
 # Google AdSense Analytics Dashboard Project
 
 This repository contains a comprehensive **Google AdSense analytics project** built using a simulated multi-website dataset and visualized in **Looker Studio**.  
