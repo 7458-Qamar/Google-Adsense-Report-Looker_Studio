@@ -6,8 +6,6 @@ The project focuses on analyzing monetization performance, user behavior, traffi
 
 The dashboard is designed to reflect how AdSense performance is evaluated in real-world environments, going beyond basic revenue reporting to include engagement, viewability, and policy-risk indicators.
 
----
-
 ## Project Purpose
 
 Most AdSense dashboards stop at impressions, clicks, and CTR.  
@@ -20,8 +18,6 @@ This project was built to answer deeper analytical questions such as:
 
 The primary goal is to demonstrate **end-to-end analytics thinking**, not just data visualization.
 
----
-
 ## Dataset Summary
 
 - **Total Rows:** 500  
@@ -31,8 +27,6 @@ The primary goal is to demonstrate **end-to-end analytics thinking**, not just d
 - **Time Range:** Multi-month  
 
 The dataset is structured to closely resemble **Google AdSense export data**, combining both performance metrics and ad-quality indicators.
-
----
 
 ## Key Metrics Included
 
@@ -54,13 +48,9 @@ The dataset is structured to closely resemble **Google AdSense export data**, co
 
 These metrics enable both **monetization analysis** and **ad-quality monitoring**.
 
----
-
 ## Dashboard Structure
 
 The dashboard is divided into four structured analytical sections.
-
----
 
 ## Executive Overview
 
@@ -78,8 +68,6 @@ This section provides a high-level snapshot of overall AdSense performance.
 **Key Question Answered:**  
 Is AdSense monetization healthy overall?
 
----
-
 ## Website Performance Analysis
 
 This section focuses on comparing performance across websites and individual pages.
@@ -95,8 +83,6 @@ This section focuses on comparing performance across websites and individual pag
 - Identification of top-performing websites  
 - Pages that drive the most monetization  
 - Whether traffic quality supports sustainable revenue growth  
-
----
 
 ## Traffic and Audience Insights
 
@@ -114,8 +100,6 @@ This section analyzes who the users are and how they contribute to revenue.
 - Browser-level engagement differences  
 - Audience retention behavior  
 
----
-
 ## Ad Quality and Optimization
 
 This section focuses on ad health, delivery efficiency, and policy-risk indicators.
@@ -132,8 +116,6 @@ This section focuses on ad health, delivery efficiency, and policy-risk indicato
 - Helps prevent long-term AdSense policy violations  
 - Identifies monetization optimization opportunities  
 
----
-
 ## Tools and Technologies Used
 
 - Looker Studio  
@@ -146,8 +128,6 @@ This section focuses on ad health, delivery efficiency, and policy-risk indicato
 - Geographic maps  
 - KPI scorecards  
 
----
-
 ## Key Insights and Learnings
 
 - High CTR alone does not guarantee higher revenue  
@@ -155,8 +135,6 @@ This section focuses on ad health, delivery efficiency, and policy-risk indicato
 - Traffic volume without quality leads to diminishing returns  
 - Invalid clicks must be monitored proactively  
 - Clear dashboard structure and analytical narrative improve decision-making  
-
----
 
 ## Conclusion
 
